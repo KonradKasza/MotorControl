@@ -6,5 +6,7 @@ Release/
 *.o
 *.su
 *.d
-
+*.swp
+*.un~
+*~
 .settings/
